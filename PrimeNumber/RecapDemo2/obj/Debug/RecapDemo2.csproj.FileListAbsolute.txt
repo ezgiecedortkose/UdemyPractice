@@ -1,0 +1,7 @@
+C:\Users\42223374254\Desktop\deneme\UdemyPractice\PrimeNumber\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\42223374254\Desktop\deneme\UdemyPractice\PrimeNumber\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\42223374254\Desktop\deneme\UdemyPractice\PrimeNumber\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\42223374254\Desktop\deneme\UdemyPractice\PrimeNumber\RecapDemo2\obj\Debug\RecapDemo2.csprojAssemblyReference.cache
+C:\Users\42223374254\Desktop\deneme\UdemyPractice\PrimeNumber\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\42223374254\Desktop\deneme\UdemyPractice\PrimeNumber\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\42223374254\Desktop\deneme\UdemyPractice\PrimeNumber\RecapDemo2\obj\Debug\RecapDemo2.pdb
