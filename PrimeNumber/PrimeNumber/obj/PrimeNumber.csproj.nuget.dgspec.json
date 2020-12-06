@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\42223374254\\Desktop\\deneme\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj": {}
+    "C:\\Users\\42223374254\\Documents\\GitHub\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\42223374254\\Desktop\\deneme\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj": {
+    "C:\\Users\\42223374254\\Documents\\GitHub\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\42223374254\\Desktop\\deneme\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
+        "projectUniqueName": "C:\\Users\\42223374254\\Documents\\GitHub\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
         "projectName": "PrimeNumber",
-        "projectPath": "C:\\Users\\42223374254\\Desktop\\deneme\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
+        "projectPath": "C:\\Users\\42223374254\\Documents\\GitHub\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
         "packagesPath": "C:\\Users\\42223374254\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\42223374254\\Desktop\\deneme\\UdemyPractice\\PrimeNumber\\PrimeNumber\\obj\\",
+        "outputPath": "C:\\Users\\42223374254\\Documents\\GitHub\\UdemyPractice\\PrimeNumber\\PrimeNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
