@@ -11,15 +11,28 @@ namespace Interfaces
         static void Main(string[] args)
         {
 
+            //Interface'e giriş
             CustomerManager customerManager = new CustomerManager();
 
             customerManager.Add(new SqlServerCustomerDal());
             customerManager.Add(new OracleCustomerDal());
 
+            //Gerçek Hayat Interface Kullanımı2
+            ICustomerDal[] customerDals = new ICustomerDal[2]
+            {
+                new SqlServerCustomerDal(),
+                    new OracleCustomerDal()
+            };
+
+            foreach (var customerDal in customerDals)
+            {
+                customerDal.Add();
+            }
 
 
+            //Interface-Dal Commit
             PersonManager manager = new PersonManager();
-           
+
             Customer customer = new Customer
             {
                 Id = 1,
@@ -33,10 +46,10 @@ namespace Interfaces
                 Id = 1,
                 FirstName = "Ece",
                 Lastname = "Dörtköşe",
-                Department="MF"
+                Department = "MF"
             };
 
-            manager.Add(customer); 
+            manager.Add(customer);
             manager.Add(student);
 
             Console.ReadLine();
