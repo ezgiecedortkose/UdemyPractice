@@ -36,6 +36,17 @@ namespace Collections
             cities.Add("İstanbul");
             Console.WriteLine(cities[3]);
 
+
+            List<string> cities3 = new List<string>();
+
+            cities3.Add("İzmir");
+            cities.Add("SADECE STRING BİR DEGER GİRİLEBİLİR");
+
+            foreach (var city in cities3)
+            {
+                Console.WriteLine(city);
+            }
+
             Console.ReadLine();
         }
     }
