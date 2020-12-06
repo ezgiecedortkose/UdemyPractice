@@ -11,16 +11,31 @@ namespace Classes
         static void Main(string[] args)
         {
             CustomerManager customerManager = new CustomerManager();
-            ProductManager productManager = new ProductManager();
-
 
             customerManager.Add();
             customerManager.Update();
 
+            ProductManager productManager = new ProductManager();
+
             productManager.Add();
             productManager.Update();
 
+            Customer customer = new Customer();
+            customer.Id = 1;
+            customer.FirstName = "Ezgi";
+            customer.Lastname = "Dörköşe";
+            customer.City = "İstanbul";
+
+            Customer customer1 = new Customer
+            {
+                Id = 2,
+                FirstName = "Ece",
+                Lastname = "Dörtköşe",
+                City = "İzmir"
+            };
+
+            Console.WriteLine(customer1.FirstName);
             Console.ReadLine();
         }
-    }   
+    }
 }
