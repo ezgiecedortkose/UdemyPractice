@@ -47,6 +47,21 @@ namespace Collections
                 Console.WriteLine(city);
             }
 
+            Dictionary<string, string> dictionary = new Dictionary<string, string>();
+            dictionary.Add("book", "kitap");
+            dictionary.Add("table", "masa");
+            dictionary.Add("computer", "bilgisayar");
+
+            Console.WriteLine(dictionary["book"]);
+
+            foreach (var item in dictionary)
+            {
+                Console.WriteLine(item.Key, item.Value);
+            }
+
+            dictionary.ContainsKey("glass"); //olmadığı için false
+            dictionary.ContainsKey("table"); //olduğu için true döner
+
             Console.ReadLine();
         }
     }
