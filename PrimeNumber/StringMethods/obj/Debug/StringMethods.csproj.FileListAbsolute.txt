@@ -1,0 +1,7 @@
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\StringMethods\bin\Debug\StringMethods.exe.config
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\StringMethods\obj\Debug\StringMethods.pdb
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\StringMethods\obj\Debug\StringMethods.csprojAssemblyReference.cache
