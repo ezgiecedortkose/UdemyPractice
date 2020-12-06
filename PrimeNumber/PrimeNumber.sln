@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethod", "VirtualMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{DA3078D3-2E88-4614-BC59-41D53E79557E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{F04E6024-E202-48FA-9B21-863BCB7A035C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{DA3078D3-2E88-4614-BC59-41D53E79557E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3078D3-2E88-4614-BC59-41D53E79557E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3078D3-2E88-4614-BC59-41D53E79557E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04E6024-E202-48FA-9B21-863BCB7A035C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04E6024-E202-48FA-9B21-863BCB7A035C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04E6024-E202-48FA-9B21-863BCB7A035C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04E6024-E202-48FA-9B21-863BCB7A035C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
