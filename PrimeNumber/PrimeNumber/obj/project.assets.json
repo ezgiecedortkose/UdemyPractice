@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\42223374254\\Desktop\\section1\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
+      "projectUniqueName": "C:\\Users\\42223374254\\Desktop\\deneme\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
       "projectName": "PrimeNumber",
-      "projectPath": "C:\\Users\\42223374254\\Desktop\\section1\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
+      "projectPath": "C:\\Users\\42223374254\\Desktop\\deneme\\UdemyPractice\\PrimeNumber\\PrimeNumber\\PrimeNumber.csproj",
       "packagesPath": "C:\\Users\\42223374254\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\42223374254\\Desktop\\section1\\PrimeNumber\\PrimeNumber\\obj\\",
+      "outputPath": "C:\\Users\\42223374254\\Desktop\\deneme\\UdemyPractice\\PrimeNumber\\PrimeNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

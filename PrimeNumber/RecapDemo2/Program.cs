@@ -20,6 +20,8 @@ namespace RecapDemo2
         {
             public ILogger Logger { get; set; }
             public void Add()
+
+
             {
                 Logger.Log();
                 Console.WriteLine("Customer added!");
