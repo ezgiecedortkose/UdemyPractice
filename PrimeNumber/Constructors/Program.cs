@@ -17,6 +17,13 @@ namespace Constructors
             CustomerManager customerManager = new CustomerManager(10);
             customerManager.List();
 
+            Teacher.Number = 10;
+            Utilities.Validate();
+
+            Manager.DoSomething();
+            Manager manager = new Manager();
+            manager.DoSomething2();
+
             Console.ReadLine();
         }
     }
@@ -40,6 +47,32 @@ namespace Constructors
         public void Add()
         {
             Console.WriteLine("Added!");
+        }
+    }
+
+    static class Teacher
+    {
+        public static int Number { get; set; }
+    }
+
+    static class Utilities
+    {
+        public static void Validate()
+        {
+            Console.WriteLine("Validation is done"); 
+        }
+    }
+
+    class Manager
+    {
+        public static void DoSomething()
+        {
+            Console.WriteLine("done");
+        }
+
+        public void DoSomething2()
+        {
+            Console.WriteLine("done2");
         }
     }
 }
