@@ -1,0 +1,7 @@
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csprojAssemblyReference.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb
