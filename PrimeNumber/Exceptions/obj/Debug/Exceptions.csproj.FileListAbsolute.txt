@@ -1,0 +1,7 @@
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Exceptions\obj\Debug\Exceptions.pdb
