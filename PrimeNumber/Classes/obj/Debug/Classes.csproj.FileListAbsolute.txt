@@ -1,0 +1,7 @@
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Classes\bin\Debug\Classes.exe.config
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Classes\bin\Debug\Classes.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Classes\bin\Debug\Classes.pdb
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Classes\obj\Debug\Classes.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\Classes\obj\Debug\Classes.pdb
