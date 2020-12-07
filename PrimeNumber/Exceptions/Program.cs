@@ -28,6 +28,19 @@ namespace Exceptions
                 Console.WriteLine(ex.Message);
             }
 
+            //Method
+            HandleException(()=> {
+                List<string> students = new List<string> { "Ezgi", "Ece", "Orkun" };
+                if (!students.Contains("Büşra"))
+                {
+                    throw new RecordNotFoundException();
+                }
+                else
+                {
+                    Console.WriteLine("Record Found");
+                }
+            });
+
 
             //List<string> students = new List<string> { "Ezgi", "Ece", "Orkun" };
             //if (!students.Contains("Büşra"))
@@ -57,6 +70,19 @@ namespace Exceptions
             }
 
             Console.ReadLine();
+        }
+
+        private static void HandleException(Action action)
+        {
+            try
+            {
+                action.Invoke();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                throw;
+            }
         }
     }
 }
