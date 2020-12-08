@@ -1,0 +1,15 @@
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojAssemblyReference.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\PrimeNumber\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
