@@ -45,6 +45,7 @@
             this.tbxUniePriceUpdate = new System.Windows.Forms.TextBox();
             this.lblUnitPriceUpdate = new System.Windows.Forms.Label();
             this.lblStockAmontUpdate = new System.Windows.Forms.Label();
+            this.btnRemove = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).BeginInit();
             this.gbxAdd.SuspendLayout();
             this.gbxUpdate.SuspendLayout();
@@ -53,7 +54,7 @@
             // dgwProducts
             // 
             this.dgwProducts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgwProducts.Location = new System.Drawing.Point(44, 31);
+            this.dgwProducts.Location = new System.Drawing.Point(44, 61);
             this.dgwProducts.Name = "dgwProducts";
             this.dgwProducts.RowHeadersWidth = 51;
             this.dgwProducts.RowTemplate.Height = 24;
@@ -209,11 +210,22 @@
             this.lblStockAmontUpdate.TabIndex = 4;
             this.lblStockAmontUpdate.Text = "Stock Amount";
             // 
+            // btnRemove
+            // 
+            this.btnRemove.Location = new System.Drawing.Point(544, 22);
+            this.btnRemove.Name = "btnRemove";
+            this.btnRemove.Size = new System.Drawing.Size(181, 23);
+            this.btnRemove.TabIndex = 9;
+            this.btnRemove.Text = "Remove";
+            this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnRemove.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.gbxUpdate);
             this.Controls.Add(this.gbxAdd);
             this.Controls.Add(this.dgwProducts);
@@ -248,6 +260,7 @@
         private System.Windows.Forms.TextBox tbxUniePriceUpdate;
         private System.Windows.Forms.Label lblUnitPriceUpdate;
         private System.Windows.Forms.Label lblStockAmontUpdate;
+        private System.Windows.Forms.Button btnRemove;
     }
 }
 
