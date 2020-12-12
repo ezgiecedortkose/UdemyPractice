@@ -50,7 +50,7 @@ namespace AspNetCoreInfo
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Product}/{action=Index}/{id?}");
+                    pattern: "{controller=Product}/{action=Index3}/{id?}");
             });
         }
     }
