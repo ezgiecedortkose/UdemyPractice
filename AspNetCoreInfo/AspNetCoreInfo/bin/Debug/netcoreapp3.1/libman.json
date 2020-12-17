@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "alertify.js@1.0.12",
+      "destination": "wwwroot/css/alertify.js/"
+    }
+  ]
+}

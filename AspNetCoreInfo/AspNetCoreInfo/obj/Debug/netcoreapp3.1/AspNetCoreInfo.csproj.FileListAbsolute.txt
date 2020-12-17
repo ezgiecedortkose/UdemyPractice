@@ -109,3 +109,6 @@ C:\Users\42223374254\Documents\GitHub\UdemyPractice\AspNetCoreInfo\AspNetCoreInf
 C:\Users\42223374254\Documents\GitHub\UdemyPractice\AspNetCoreInfo\AspNetCoreInfo\obj\Debug\netcoreapp3.1\AspNetCoreInfo.csproj.CoreCompileInputs.cache
 C:\Users\42223374254\Documents\GitHub\UdemyPractice\AspNetCoreInfo\AspNetCoreInfo\obj\Debug\netcoreapp3.1\AspNetCoreInfo.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\42223374254\Documents\GitHub\UdemyPractice\AspNetCoreInfo\AspNetCoreInfo\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\AspNetCoreInfo\AspNetCoreInfo\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\AspNetCoreInfo\AspNetCoreInfo\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\42223374254\Documents\GitHub\UdemyPractice\AspNetCoreInfo\AspNetCoreInfo\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SaveCustomer.cshtml.g.cs
