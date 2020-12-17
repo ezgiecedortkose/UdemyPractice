@@ -25,6 +25,7 @@ namespace AspNetCoreInfo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSession();
             services.AddSingleton<ILogger, DatabaseLogger>();
             services.AddControllersWithViews();
 
@@ -50,6 +51,8 @@ namespace AspNetCoreInfo
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseSession();
 
             app.UseEndpoints(endpoints =>
             {
